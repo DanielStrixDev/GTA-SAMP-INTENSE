@@ -19,4 +19,3 @@ This license does not grant permission to use the project for commercial purpose
 Any violation of these terms will result in legal action as permitted by applicable law.
 
 For any inquiries regarding licensing or special permissions, please contact the author at [YOUR EMAIL].
-
